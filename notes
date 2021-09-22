@@ -2,3 +2,6 @@ Dependencies used and installed:
 
 pip install pyyaml h5py
 pip install tensorflow
+
+Look into:
+Confusion matrix
